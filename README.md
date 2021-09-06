@@ -25,9 +25,9 @@ Jag är 25 år gammal nätverksingenjör som även har ett intresse för webb. J
 
 ### Hobby
 
-*⚡ Laga mat
-*⚡ Utveckla webbsidor
-*⚡ Gymma
+* Laga mat ⚡ 
+* Utveckla webbsidor ⚡ 
+* Gymma ⚡ 
 
 ## Kontakt
 
