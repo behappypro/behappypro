@@ -31,7 +31,7 @@ Jag är 25 år gammal nätverksingenjör som även har ett intresse för webb. J
 
 ## Kontakt
 
-[Ashraf Hamadi](mailto:asha1900@student.miun.se?subject=[GitHub]%20Source%20Han%20Sans)
+[Email](mailto:asha1900@student.miun.se?subject=[GitHub])
  
 ## Länkar
 
