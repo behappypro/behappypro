@@ -21,13 +21,13 @@ Jag är en student på mittuniversitetet som i dagsläget påbörjat mitt andra 
 
 Jag är 25 år gammal nätverksingenjör som även har ett intresse för webb. Jag har länge jobbat med att utveckla webbsidor och finner som mycket annat inom IT att det alltid finns något nytt och lära sig.
 
-## Fritid
+## Fritid 😄
 
-### Hobby
+### Hobby ⚡ 
 
-* Laga mat ⚡ 
-* Utveckla webbsidor ⚡ 
-* Gymma ⚡ 
+* Laga mat  
+* Utveckla webbsidor  
+* Gymma  
 
 ## Kontakt
 
