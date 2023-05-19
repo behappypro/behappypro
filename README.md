@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hej mitt namn är Ashraf 👋
 
-Jag är en student full stack utvecklare som även jobbar som gymnasielärare.
+Jag är en full stack utvecklare som även jobbar som gymnasielärare.
 
 ## Kort om mig 💬
 
